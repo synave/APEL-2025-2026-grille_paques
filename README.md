@@ -18,3 +18,7 @@ Ouvrir le fichier source (APEL-2025-2026-grille_paques.docx) avec Word.
 # Suppléments
 
 Une version image PNG et une version PDF sont également fournies.
+
+# Credits
+
+Police Chewy : https://www.1001fonts.com/chewy-font.html
