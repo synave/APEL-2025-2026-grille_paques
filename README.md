@@ -10,10 +10,12 @@ L'affiche a été créée avec Word de la suite office 365. La grille a été cr
 
 Le fond de la grille a été créée grâce à chatgpt et gemini.
 
-Police utilisée : "??"
+Police utilisée : "Chewy"
 
 # Pour modifier l'affiche
-Ouvrir le fichier source (APEL-2025-2026-grille_paques.docx) avec Word.
+Ouvrir le fichier source (APEL-2025-2026-grille_paques_ecole.docx ou APEL-2025-2026-grille_paques_college.docx) avec Word.
+
+Si vous voulez modifier l'affiche qui contient le publipostage, ouvrez le fichier dont le nom contient publipostage. Il vous faudra alors télécharger le fichier eleves.xlsx également.
 
 # Suppléments
 
